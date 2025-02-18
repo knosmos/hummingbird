@@ -1,0 +1,27 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C11, C12, C15, C16, C4, C5, C6, C7",0402,9,100n,C1525
+C10,0402,1,2u2,C12530
+"C13, C8",0805,2,22u,C45783
+"C14, C9",0603,2,22u,C59461
+C17,0402,1,10n,C15195
+"C18, C19",0402,2,1u,C52923
+"C2, C3",0402,2,15p,C1548
+D1,0603,1,LED,C2286
+FB1,0805,1,100,C1015
+J1,USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,1,USB_C_Receptacle_USB2.0_16P,C2765186
+J2,PinHeader_1x03_P2.54mm_Horizontal,1,srv1,
+J3,PinHeader_1x03_P2.54mm_Horizontal,1,srv2,
+J4,PinHeader_1x03_P2.54mm_Horizontal,1,halleffect,
+J5,JST_SH_SM06B-SRSS-TB_1x06-1MP_P1.00mm_Horizontal,1,Conn_01x06,C22461268
+"J6, J7",SolderWire-0.1sqmm_1x02_P3.6mm_D0.4mm_OD1mm,2,Conn_01x02,
+J8,PinHeader_2x01_P2.54mm_Vertical,1,PWR_IN,
+J9,PinHeader_2x02_P2.54mm_Vertical,1,Conn_02x02_Counter_Clockwise,
+"Q1, Q2",SOT-23,2,AO3400A,C20917
+"R2, R3, R6",0402,3,5k1,C25905
+R5,0402,1,10k,C25744
+U1,LQFP-48_7x7mm_P0.5mm,1,STM32F103C8Tx,
+U2,SOT-223-3_TabPin2,1,AMS1117-3.3,C6186
+U3,LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y,1,ICM-42688-P,C1850418
+U4,SOT-223-3_TabPin2,1,AMS1117-5,C6187
+U5,Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering,1,DPS310XTSA1,C3232509
+Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,1,16mhz,C13738
