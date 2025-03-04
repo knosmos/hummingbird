@@ -1,4 +1,8 @@
-![hummingbird](https://github.com/user-attachments/assets/484456df-929e-4e9f-abab-7f0c61837f22)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/7356b551-4785-46c3-8079-baab0482c5df">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/484456df-929e-4e9f-abab-7f0c61837f22">
+  <img alt="hummingbird" src="https://github.com/user-attachments/assets/484456df-929e-4e9f-abab-7f0c61837f22">
+</picture>
 
 Custom STM32 flight controller for MIT Design Build Fly 2025
 
